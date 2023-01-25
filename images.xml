@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="17.0.5" class="java.beans.XMLDecoder">
+ <object class="java.util.ArrayList">
+  <void method="add">
+   <object class="ImageModèle" id="ImageModèle0">
+    <void class="ImageModèle" method="getField">
+     <string>id</string>
+     <void method="set">
+      <object idref="ImageModèle0"/>
+      <string>paris</string>
+     </void>
+    </void>
+    <void class="ImageModèle" method="getField">
+     <string>chemin</string>
+     <void method="set">
+      <object idref="ImageModèle0"/>
+      <string>Ressources/images/paris.jpg</string>
+     </void>
+    </void>
+    <void class="ImageModèle" method="getField">
+     <string>note</string>
+     <void method="set">
+      <object idref="ImageModèle0"/>
+      <int>2</int>
+     </void>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="ImageModèle" id="ImageModèle1">
+    <void class="ImageModèle" method="getField">
+     <string>id</string>
+     <void method="set">
+      <object idref="ImageModèle1"/>
+      <string>bretagne</string>
+     </void>
+    </void>
+    <void class="ImageModèle" method="getField">
+     <string>chemin</string>
+     <void method="set">
+      <object idref="ImageModèle1"/>
+      <string>Ressources/images/bretagne.jpg</string>
+     </void>
+    </void>
+    <void class="ImageModèle" method="getField">
+     <string>note</string>
+     <void method="set">
+      <object idref="ImageModèle1"/>
+      <int>4</int>
+     </void>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="ImageModèle" id="ImageModèle2">
+    <void class="ImageModèle" method="getField">
+     <string>id</string>
+     <void method="set">
+      <object idref="ImageModèle2"/>
+      <string>espace</string>
+     </void>
+    </void>
+    <void class="ImageModèle" method="getField">
+     <string>chemin</string>
+     <void method="set">
+      <object idref="ImageModèle2"/>
+      <string>Ressources/images/espace.jpg</string>
+     </void>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="ImageModèle" id="ImageModèle3">
+    <void class="ImageModèle" method="getField">
+     <string>id</string>
+     <void method="set">
+      <object idref="ImageModèle3"/>
+      <string>sport</string>
+     </void>
+    </void>
+    <void class="ImageModèle" method="getField">
+     <string>chemin</string>
+     <void method="set">
+      <object idref="ImageModèle3"/>
+      <string>Ressources/images/sport.jpg</string>
+     </void>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="ImageModèle" id="ImageModèle4">
+    <void class="ImageModèle" method="getField">
+     <string>id</string>
+     <void method="set">
+      <object idref="ImageModèle4"/>
+      <string>tigre</string>
+     </void>
+    </void>
+    <void class="ImageModèle" method="getField">
+     <string>chemin</string>
+     <void method="set">
+      <object idref="ImageModèle4"/>
+      <string>Ressources/images/tigre.jpg</string>
+     </void>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="ImageModèle" id="ImageModèle5">
+    <void class="ImageModèle" method="getField">
+     <string>id</string>
+     <void method="set">
+      <object idref="ImageModèle5"/>
+      <string>lucane</string>
+     </void>
+    </void>
+    <void class="ImageModèle" method="getField">
+     <string>chemin</string>
+     <void method="set">
+      <object idref="ImageModèle5"/>
+      <string>Ressources/images/lucane.jpg</string>
+     </void>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="ImageModèle" id="ImageModèle6">
+    <void class="ImageModèle" method="getField">
+     <string>id</string>
+     <void method="set">
+      <object idref="ImageModèle6"/>
+      <string>personnes</string>
+     </void>
+    </void>
+    <void class="ImageModèle" method="getField">
+     <string>chemin</string>
+     <void method="set">
+      <object idref="ImageModèle6"/>
+      <string>Ressources/images/personnes.jpg</string>
+     </void>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="ImageModèle" id="ImageModèle7">
+    <void class="ImageModèle" method="getField">
+     <string>id</string>
+     <void method="set">
+      <object idref="ImageModèle7"/>
+      <string>gaudi</string>
+     </void>
+    </void>
+    <void class="ImageModèle" method="getField">
+     <string>chemin</string>
+     <void method="set">
+      <object idref="ImageModèle7"/>
+      <string>Ressources/images/gaudi.jpg</string>
+     </void>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="ImageModèle" id="ImageModèle8">
+    <void class="ImageModèle" method="getField">
+     <string>id</string>
+     <void method="set">
+      <object idref="ImageModèle8"/>
+      <string>cellules</string>
+     </void>
+    </void>
+    <void class="ImageModèle" method="getField">
+     <string>chemin</string>
+     <void method="set">
+      <object idref="ImageModèle8"/>
+      <string>Ressources/images/cellules.jpg</string>
+     </void>
+    </void>
+   </object>
+  </void>
+ </object>
+</java>
