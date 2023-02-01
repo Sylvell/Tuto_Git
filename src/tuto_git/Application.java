@@ -22,6 +22,7 @@ public class Application extends Frame implements WindowListener {
 		this.add(vue);
 		this.pack();
 		this.setLocationRelativeTo(null);
+		this.setTitle("Titre");
 		this.setVisible(true);
 		this.addWindowListener(this);
 	}
