@@ -25,6 +25,7 @@ public class Application extends Frame implements WindowListener {
 		this.setTitle("No joker don't tell me");
 		this.setVisible(true);
 		this.addWindowListener(this);
+		// Commantaire
 	}
 
 	@Override
